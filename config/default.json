@@ -1,0 +1,4 @@
+{
+    "mongoString":"mongodb+srv://{vasi krenecijali}@mycluster.clbv1.mongodb.net/Users?retryWrites=true&w=majority",
+    "jwtSecret":"Mojasecretvalue"
+}
